@@ -25,4 +25,5 @@ Fire Fighter Bot Build on Arduino Mega 2560
 	•	NewPing Library // Optional
 
 All the above components are to be connected via a common ground!!
+Three 9V batteries are for MotorShield, Arduino Mega 2560 and Servo MG996R. 
 
