@@ -18,3 +18,10 @@ Fire Fighter Bot Build on Arduino Mega 2560
 	•	Servo – MG996R -1
 	•	Caulking Gun
 
+	Libraries Needed
+	•	Arduino IDE
+	•	Servo Library
+	•	Motor Shield Library by CuriosityGym
+	•	NewPing Library // Optional
+
+
