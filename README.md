@@ -24,4 +24,5 @@ Fire Fighter Bot Build on Arduino Mega 2560
 	•	Motor Shield Library by CuriosityGym
 	•	NewPing Library // Optional
 
+All the above components are to be connected via a common ground!!
 
